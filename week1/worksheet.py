@@ -78,3 +78,6 @@ accountBalance = 12123.34
 interestAmount = interestRate * accountBalance
 
 print(interestAmount)
+
+print("mpg")
+print
