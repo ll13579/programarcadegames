@@ -1,3 +1,12 @@
+from math import *
+
+(10)
+x = sin(0) + cos(0)
+
+
+
+
+
 # Question 1: Write a line of code that will print your name.
 print("Leo")
 # Question 2: How do you enter a comment in a program?
@@ -45,9 +54,27 @@ print(x)
 print(X)
 a = 10 // 3
 x = 2
-x = 5 * y
 x = 5 * (3 / 2)
 x = 5 *(   3/   2)
 print ("x")
 average = (90 + 86 + 71 + 100 + 98) / 5
 print ("average")
+m = 294 / 10.5
+print (m)
+
+m = 294
+g = 10.5
+m2 = m / g
+print (m2)
+
+milesDriven = 294
+gallonsUsed = 10.5
+mpg = milesDriven / gallonsUsed
+print(mpg)
+
+
+interestRate = 0.1
+accountBalance = 12123.34
+interestAmount = interestRate * accountBalance
+
+print(interestAmount)
