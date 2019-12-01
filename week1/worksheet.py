@@ -13,3 +13,28 @@ print ("your new score is", 1030+10)
 print("I want to print a double quote \" for some reason.")
 print("the file is stored in C:\\newfolder")
 print("This\nis\nmy\nsample")
+# this is a comment
+print("Hi") # This is an end-of-line comment
+print("Hi")
+'''
+This is
+a
+multi
+line
+comment. Nothing
+Will run in between these quotes.
+Print ("There")
+'''
+print("Done")
+x = 10
+print(x)
+x = 100
+print("x=, x")
+x = 10
+print(x)
+print(x)
+print("x=", x)
+x = x + 1
+print(x)
+x += 1
+print(x)
