@@ -38,3 +38,16 @@ x = x + 1
 print(x)
 x += 1
 print(x)
+print(x)
+x = 5
+X = 6
+print(x)
+print(X)
+a = 10 // 3
+x = 2
+x = 5 * y
+x = 5 * (3 / 2)
+x = 5 *(   3/   2)
+print ("x")
+average = (90 + 86 + 71 + 100 + 98) / 5
+print ("average")
