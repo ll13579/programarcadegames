@@ -5,6 +5,7 @@ x = sin(0) + cos(0)
 
 # Question 1: Write a line of code that will print your name.
 print("Leo")
+
 # Question 2: How do you enter a comment in a program?
 # You write a hashtag
 print (3+4)
@@ -83,3 +84,5 @@ miles_driven = input ("Enter miles driven:")
 gallons_used = input ("Enter gallons used:")
 x = miles_driven + gallons_used
 print ("Sum of m + g:", x)
+x = 10
+print("x")
