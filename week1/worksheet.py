@@ -3,10 +3,6 @@ from math import *
 (10)
 x = sin(0) + cos(0)
 
-
-
-
-
 # Question 1: Write a line of code that will print your name.
 print("Leo")
 # Question 2: How do you enter a comment in a program?
@@ -81,3 +77,9 @@ print(interestAmount)
 
 print("mpg")
 print
+
+1+2
+miles_driven = input ("Enter miles driven:")
+gallons_used = input ("Enter gallons used:")
+x = miles_driven + gallons_used
+print ("Sum of m + g:", x)
