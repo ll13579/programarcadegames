@@ -31,4 +31,9 @@ print("The area is:", area)
 
 print("This Program calculates the Area of a Circle")
 
+circle_radius = input("Enter circle radius:")
+circle_radius = float(circle_radius)
+
+circle_area = 3.14159 * (float(circle_radius * circle_radius))
+print("The area is:", circle_area)
 
