@@ -4,6 +4,7 @@ from math import *
 x = sin(0) + cos(0)
 
 # Question 1: Write a line of code that will print your name.
+
 print("Leo")
 
 # Question 2: How do you enter a comment in a program?
