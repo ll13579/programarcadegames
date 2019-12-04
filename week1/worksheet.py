@@ -1,89 +1,74 @@
-from math import *
-
-(10)
-x = sin(0) + cos(0)
-
 # Question 1: Write a line of code that will print your name.
 
 print("Leo")
 
 # Question 2: How do you enter a comment in a program?
-# You write a hashtag
-print (3+4)
-print (3+4)
 
-print ("hello world")
-print(2+3)
-print("Your new score is", 1030+10)
-print(1+3)
-print ("your new score is", 1030+10)
-print("I want to print a double quote \" for some reason.")
-print("the file is stored in C:\\newfolder")
-print("This\nis\nmy\nsample")
-# this is a comment
-print("Hi") # This is an end-of-line comment
-print("Hi")
-'''
-This is
-a
-multi
-line
-comment. Nothing
-Will run in between these quotes.
-Print ("There")
-'''
-print("Done")
-x = 10
-print(x)
-x = 100
-print("x=, x")
-x = 10
-print(x)
-print(x)
-print("x=", x)
-x = x + 1
-print(x)
-x += 1
-print(x)
-print(x)
-x = 5
-X = 6
-print(x)
-print(X)
-a = 10 // 3
-x = 2
-x = 5 * (3 / 2)
-x = 5 *(   3/   2)
-print ("x")
-average = (90 + 86 + 71 + 100 + 98) / 5
-print ("average")
-m = 294 / 10.5
-print (m)
+#You write a hashtag
 
-m = 294
-g = 10.5
-m2 = m / g
-print (m2)
+#  Question 3: What do the following lines of code output?
 
-milesDriven = 294
-gallonsUsed = 10.5
-mpg = milesDriven / gallonsUsed
-print(mpg)
+print(2 / 3)
+print(2 // 3)
+#//rounds down to the nearest integer
+
+# Question 4:
+
+pi = 3.14159
+
+# Question 5:
+
+A = 22
+print (A)
+# the a needs to be capitalised
+
+# Question 6:
+
+area_of_rectangle = 10
+
+# Question 7:
+
+# Question 8:
+
+a = 45
+print(a)
+#the value has to go before the 'print' statement
+
+# Question 9:
+
+pi = int(3.14)
+#variable must be defined before we can 'float' it
+
+# Question 10:
+radius = float(input("Radius:"))
+x = 3.14
+pi = x
+area = (pi * radius) ** 2
+
+print(area)
+
+# 11
+
+radius = input("Enter the radius:")
+#float isn't included
+
+#15
+
+#something that conturs continuously over time, doesn't change
+
+#18
 
 
-interestRate = 0.1
-accountBalance = 12123.34
-interestAmount = interestRate * accountBalance
 
-print(interestAmount)
+#19
 
-print("mpg")
-print
+print = ('referge')
 
-1+2
-miles_driven = input ("Enter miles driven:")
-gallons_used = input ("Enter gallons used:")
-x = miles_driven + gallons_used
-print ("Sum of m + g:", x)
-x = 10
-print("x")
+
+print(2/3+4)
+print(2 / 3 + 4)
+print(   2 /    3+    4  )
+
+print: ("hello//regre")
+
+print: ("")
